@@ -9,7 +9,6 @@ This project aims to classify different types of fruits using machine learning m
 - [Methodology](#methodology)
 - [Results](#results)
 - [Applications](#applications)
-- [Contact](#contact)
 
 ## Data
 The dataset used for this project consists of images of different types of fruits. Each image is labeled with the type of fruit it represents. The dataset includes a variety of fruits such as apples, bananas, oranges, and more. There are a total of 10 categories in the target.
@@ -56,6 +55,3 @@ This fruit classification model has several potential applications:
 - **Automated Sorting Systems:** Can be used in agricultural and food industries for automated sorting of fruits.
 - **Retail:** Helps in automating the identification and pricing of fruits in grocery stores.
 - **Dietary Tracking:** Assists in dietary tracking apps to automatically identify and log fruits.
-
-## Contact
-For any questions or suggestions, please contact on LinkedIn: https://www.linkedin.com/in/siddiquizainab/
